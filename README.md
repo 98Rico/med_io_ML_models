@@ -1,6 +1,6 @@
 # MedIo Machine Learning Models
 
-The following repository contains three folder:
+The following repository contains three folders:
 
 -2D_CNN_RGB (developped by Luka Stojanovic, Pedro Oliveira and Robert Nash for their project AI BASED IDENTIFICATION OF MEDICINES ran in 2020 and supervised by Prof. Miguel Rodrigues at UCL), modified to fit our dataset.  <br /> 
 -3D_CNN <br /> 
