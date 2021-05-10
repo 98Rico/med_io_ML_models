@@ -1,4 +1,8 @@
 # Dual-Channel CNN
+order: <br /> 
+1) Data Augmentation (if needed)
+2) Resize algorithm (otherwise)
+3) DUal-Channel CNN
 
 The "dual_channel_data_preproceesing" file is a code which resizes the pictures from RGB or NIR dataset as they need to present images with the same dimensions, in that case (400,400,3). The source direction can be changed accordingly if the resize is performed on RGB or NIR images. Moreover, we remove .DS and .HEIC files as the first one is not an image and the second one is not a .jpg file. Indeed, all fies need to be of the same type, in this case .jpg. 
 
