@@ -2,7 +2,7 @@
 order: <br /> 
 1) Data Augmentation (if needed)
 2) Resize algorithm (otherwise)
-3) DUal-Channel CNN
+3) Dual-Channel CNN
 
 If one of the two datasets needs data augmentation to match the number of element in the other dataset, use the data augmentation algorithm making sure the files directory matches the location of your folders. This algorithm uses two different methods: rotation and pixel reorganisation of the image. 
 
