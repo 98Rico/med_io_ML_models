@@ -1,4 +1,4 @@
-# 3DCNN_spectroscopy
+# MedIo Machine Learning Models
 
 The following repository contains three folder:
 
